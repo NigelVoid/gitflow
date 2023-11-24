@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Kirill
+=======
+Fedor
+>>>>>>> 5430a16 (name)
